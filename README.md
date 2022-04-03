@@ -13,8 +13,16 @@ pip3 install telebot
 - [Telegram Bot API Token](https://www.siteguarding.com/en/how-to-get-telegram-bot-api-token)
 
 ### Demonstração
-![](Canal_Telegram.jpg)
-![](Canal_Telegram.jpg)
-![](Canal_Telegram.jpg)
-![](Canal_Telegram.jpg)
-![](Canal_Telegram.jpg)
+![](2022-04-02 211309.jpg)
+![](2022-04-02 211029.jpg)
+![](2022-04-02 211440.jpg)
+![](2022-04-02 211636.jpg)
+![](2022-04-02-21-23-13.gif)
+
+### Créditos
+__Desenvolvido por:__
+```
+Gabriel Aparecido Zucoloto
+```
+- [Linkedin](https://www.linkedin.com/in/gabriel-zucoloto-51a51b231)
+- [Portfolio](https://bielzucoloto.github.io/)

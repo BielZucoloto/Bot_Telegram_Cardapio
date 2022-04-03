@@ -15,9 +15,13 @@ pip3 install telebot
 ### Demonstração
 
 ![](1.jpg)
+
 ![](2.jpg)
+
 ![](3.jpg)
+
 ![](4.jpg)
+
 ![](2022-04-02-21-23-13.gif)
 
 ### Créditos
